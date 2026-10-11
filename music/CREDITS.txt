@@ -1,0 +1,17 @@
+BuildOs Playground background music
+
+Every recording here is free of copyright: public domain or CC0 (Creative Commons Zero) on
+Wikimedia Commons. No fee or credit is owed; they are credited with thanks.
+
+gymnopedie-1.mp3          Erik Satie, Gymnopédie No. 1. Robin Alciatore, piano (Musopen). Public domain.
+                          https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg
+clair-de-lune.mp3         Claude Debussy, Clair de lune. Laurens Goedhart, piano. Public domain.
+                          https://commons.wikimedia.org/wiki/File:Clair_de_lune_(Claude_Debussy)_Suite_bergamasque.ogg
+nocturne-e-minor.mp3      Frédéric Chopin, Nocturne in E minor, Op. posth. 72 No. 1 (Musopen). CC0.
+                          https://commons.wikimedia.org/wiki/File:Chopin_Nocturne_in_Em,_Op._posth._72.ogg
+gymnopedie-3-guitar.mp3   Erik Satie, Gymnopédie No. 3. Michael Laucke, guitar. Public domain.
+                          https://commons.wikimedia.org/wiki/File:Satie_Gymnopedie_No_3_performed_by_Michael_Laucke.flac
+nocturne-c-minor.mp3      Frédéric Chopin, Nocturne in C minor, Op. posth. Diana Hughes, piano (Musopen). CC0.
+                          https://commons.wikimedia.org/wiki/File:Chopin_Nocturne_21_in_C_minor_Posthumous_Diana_Hughes.ogg
+
+The files are Wikimedia Commons' MP3 transcodes of those recordings (downloaded 2026-10-11).
